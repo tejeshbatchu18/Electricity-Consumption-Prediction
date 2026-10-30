@@ -1,0 +1,15 @@
+# Dataset
+household_power_consumption.csv
+
+# Trained model
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
